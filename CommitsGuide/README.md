@@ -1,4 +1,4 @@
-#Introdução
+# Introdução
 
 Esse documento tem por objetivo normalizar os commits do fluxo de GIT, seguindo o padrão proposto [pela convenção de commits](https://www.conventionalcommits.org/), que procura padronizar os commits a fim de seguirem o versionamento semântico proposto pelo [SemVer](https://semver.org).
 Logo, há uma ligação quase um para um entre o tipo de commit e a mudança da versão do software.
@@ -6,7 +6,7 @@ Logo, há uma ligação quase um para um entre o tipo de commit e a mudança da 
 O importante de notar aqui é que a padronização das mensagens de commit não apenas ajuda na automação do processo de versionamento como também, se bem implementada, descreve o Changelog completo do software quase automaticamente.
 ___
 
-<hr>
+[Custom foo description](#foo)
 
 ___
 
@@ -195,6 +195,8 @@ Código em progresso. Deve ser utilizado em casos de uma implementação não fi
 ### 13. 🌐 Intl
 
 Mudanças de internacionalização e localização, como adição de suporte para uma nova linguagem, ou mudanças nos dicionários já existentes.
+
+# Foo
 
 **Exemplo**
 Mudança nos registros de localização de uma lingua; criação de um novo dicionário de tradução; exclusão de registros não mais utilizados; 
