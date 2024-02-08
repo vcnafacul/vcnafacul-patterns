@@ -100,9 +100,3 @@ Alterações que exigem uma revisão detalhada de arquitetura e design.
 Implementação de grandes melhorias de desempenho ou otimização.
 Reforço que este processo é de melhoria contínua. Qualquer sugestão que tiverem será devidamente apreciada e incorporada aos processos caso seja relevante.
 No mais, mais uma vez, obrigado pela atenção de todos.
- heart 7
-
-	
-            Azure DevOps Services | Sign In
-        
-
