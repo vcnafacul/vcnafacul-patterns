@@ -62,7 +62,6 @@ Para mais informações ou dúvidas, entre em contato com os mantenedores do pro
 
 **Nota**: Estas diretrizes são sujeitas a alterações e podem ser atualizadas conforme necessário. Verifique regularmente este documento para obter as últimas informações.
 
-[terça-feira 15:36] Iuri Andrade Carvalho
 Resoluções adicionais - Fluxo de trabalho, commits, Pull Requests e Code Review
 Olá pessoal. Inalgurando o canal tech aqui.
  
