@@ -9,11 +9,17 @@ O importante de notar aqui é que a padronização das mensagens de commit não 
 ___
 
 [Introdução](#introdução)
+
 [Padrão/Cheatsheet](#padrão/cheatsheet)
+
 [Tipos de commit](##tiposdecommit)
+
 [Especificação](#especificação)
+
 [Tipos de commit](#tiposdecommit)
-[1. 🐞 fix](##1.🐞fix)
+
+[Exemplos](#exemplos)
+
 [Introdução](#introdução)
 [Introdução](#introdução)
 [Introdução](#introdução)
