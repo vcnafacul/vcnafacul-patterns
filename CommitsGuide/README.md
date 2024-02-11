@@ -54,7 +54,9 @@ Relates #1234
 > 💡 **Mensagens em Inglês**
 
 > 💡 **Mensagens devem ser declarativas e sintetizadas!**
->
+
+> 💡 **Os verbos devem ser no imperativo!**
+
 >> ❌ **Não Faça:** `New endpoint was added to send data to new componente XYZ in the front end, resolving task #123` 
 >>
 >> ✅ **Faça:** `Add endpoint GET to component XYZ`
