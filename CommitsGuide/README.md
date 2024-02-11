@@ -10,13 +10,11 @@ ___
 
 [Introdução](#introdução)
 
-[Padrão/Cheatsheet](#padrão/cheatsheet)
-
-[Tipos de commit](##tiposdecommit)
+[Padrão/Cheatsheet](#padrãocheatsheet)
 
 [Especificação](#especificação)
 
-[Tipos de commit](#tiposdecommit)
+[Tipos de commit](#TiposdeCommit)
 
 [Exemplos](#exemplos)
 
