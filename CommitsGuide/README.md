@@ -1,3 +1,5 @@
+⬅️[Voltar para página inicial]()
+
 # Introdução
 
 Esse documento tem por objetivo normalizar os commits do fluxo de GIT, seguindo o padrão proposto [pela convenção de commits](https://www.conventionalcommits.org/), que procura padronizar os commits a fim de seguirem o versionamento semântico proposto pelo [SemVer](https://semver.org).
@@ -6,7 +8,7 @@ Logo, há uma ligação quase um para um entre o tipo de commit e a mudança da 
 O importante de notar aqui é que a padronização das mensagens de commit não apenas ajuda na automação do processo de versionamento como também, se bem implementada, descreve o Changelog completo do software quase automaticamente.
 ___
 
-[Custom foo description](#foo)
+[Custom foo description](#especificação)
 
 ___
 
