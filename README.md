@@ -20,6 +20,15 @@ A seguir, os links que vão direcionar para as áreas específicas que queira co
 
 Criar card no trello vai se chemar numero do card e epico
 
+# Repositórios da aplicação
+
+[Frontend - Client]()
+
+[Backend - API]()
+
+[Serviço de simulado]()
+
+
 ## Git
 
 - **Branches**:
