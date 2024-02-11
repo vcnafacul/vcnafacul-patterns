@@ -1,8 +1,22 @@
 # Padrões de Desenvolvimento - vcnafacul
 
-Bem-vindo ao repositório dos Padrões de Desenvolvimento da vcnafacul. Este documento descreve as diretrizes e boas práticas a serem seguidas pelos colaboradores ao contribuir para os projetos da organização.
+Bem-vindo ao repositório dos Padrões de Desenvolvimento do vcnafacul. Este documento descreve as diretrizes e boas práticas a serem seguidas pelos colaboradores ao contribuir para os projetos da organização.
+
 Os guias descritos neste repositório visam orientar os profissionais voluntários no processo de trabalho do dia a dia do VcNaFacul. Este processo engloba a criação de commits de desenvolvimento, e as movimentações de cards do Board do Trello e o processo de Pull Request (PR) e Code Review (CD).
+
 As propostas contidas aqui são orientações e estão abertas a mudanças a sugestões.
+
+A seguir, os links que vão direcionar para as áreas específicas que queira consultar:
+
+[Guia de Fluxo de Trabalho]()
+
+[Guia de Fluxo de Commits]()
+
+[Guia de Fluxo de Pull Request]()
+
+[Guia de Fluxo de Code Review]()
+
+[Guia Rápido - Resumo dos itens propostos anteriormente]()
 
 Criar card no trello vai se chemar numero do card e epico
 
