@@ -8,7 +8,26 @@ Logo, há uma ligação quase um para um entre o tipo de commit e a mudança da 
 O importante de notar aqui é que a padronização das mensagens de commit não apenas ajuda na automação do processo de versionamento como também, se bem implementada, descreve o Changelog completo do software quase automaticamente.
 ___
 
-[Custom foo description](#especificação)
+[Introdução](#introdução)
+[Padrão/Cheatsheet](#padrão/cheatsheet)
+[Tipos de commit](##tiposdecommit)
+[Especificação](#especificação)
+[Tipos de commit](#tiposdecommit)
+[1. 🐞 fix](##1.🐞fix)
+[Introdução](#introdução)
+[Introdução](#introdução)
+[Introdução](#introdução)
+[Introdução](#introdução)
+[Introdução](#introdução)
+[Introdução](#introdução)
+[Introdução](#introdução)
+[Introdução](#introdução)
+[Introdução](#introdução)
+[Introdução](#introdução)
+[Introdução](#introdução)
+[Introdução](#introdução)
+[Introdução](#introdução)
+[Introdução](#introdução)
 
 ___
 
