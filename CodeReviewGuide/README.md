@@ -7,11 +7,10 @@ Os passos abaixo devem ser seguidos no processo de CR, para atingir o máximo de
 
 1. Verifique se há conflitos: Verifique se o PR gera algum conflito de código. Em caso positivo, solicite ao autor a correção imediatamente.
 2. Leia o conteúdo do Pull Request (PR): Ao efetuar uma CR, leia o conteúdo do PR. Dessa forma você saberá o objetivo do código desenvolvido, passo imprescindível para entendê-lo.
-3. Verifique os Work Items (WI) vinculados: Ao verificar os WI's, você obterá ainda mais informações sobre o código desenvolvido. 
+3. Verifique os Work Items (WI) ou Cards vinculados: Ao verificar os WI's, você obterá ainda mais informações sobre o código desenvolvido. 
 4. Verifique os parametros de AutoComplete: Verifique os parametros de autocomplete selecionados. Desta forma, evita PR's completados com parametros incorretos. Verifique:
 - Se a opção de merge selecionada é "Merge (no fast forward)".
 - Se a opção de deletar branch de origem está marcada caso disponível. Exceto para PR's de branches principais (release para develop, develop para main, etc).
-- Se a opção de completar WI's vinculados está marcada no caso de PR's que possuem apenas tasks vinculadas.
 5. Leia as tags presentes no PR caso existam.
 6. Verifique se o código é construido corretamente: Verifique se o build do código acontece sem erros. Na ausencia de pipelines de pré-deploy, faça o checkout da branch utilizada no PR e execute o build localmente.
 7. Verifique se o código foi analisado no Sonarlint: No PR haverá uma opção marcada caso o desenvolvedor tenha executado a análise. Em caso contrário, se possível, faça o checkout da branch utilizada localmente e execute a análise.
