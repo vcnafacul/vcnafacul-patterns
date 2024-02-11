@@ -14,7 +14,7 @@ ___
 
 [Especificação](#especificação)
 
-[Tipos de commit](#TiposdeCommit)
+[Tipos de commit](#tipos-de-commit)
 
 [Exemplos](#exemplos)
 
