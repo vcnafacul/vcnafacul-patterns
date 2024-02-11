@@ -1,3 +1,5 @@
+⬅️[Voltar para página inicial]()
+
 # Introdução
 
 O processo de Code Review (CR) é importante no desenvolvimento de software pois busca imbuir o código com maior qualidade através da visão de desenvolvedores que não participaram do processo de desenvolvimento. Desta forma, erros, padrões divergentes e vícios de implementação podem ser mitigados entretanto, para um CR eficiente, alguns processos e atividades devem ser aplicados. 
