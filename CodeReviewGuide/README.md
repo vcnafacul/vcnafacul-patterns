@@ -1,10 +1,10 @@
-⬅️[Voltar para página inicial](https://vcnafacul.github.io/vcnafacul-patterns/)
+# Guia de Code Review(CR)
 
-# Introdução
+## Introdução
 
 O processo de Code Review (CR) é importante no desenvolvimento de software pois busca imbuir o código com maior qualidade através da visão de desenvolvedores que não participaram do processo de desenvolvimento. Desta forma, erros, padrões divergentes e vícios de implementação podem ser mitigados entretanto, para um CR eficiente, alguns processos e atividades devem ser aplicados. 
 ___
-# Checklist de Code Review
+## Checklist de Code Review
 Os passos abaixo devem ser seguidos no processo de CR, para atingir o máximo de aproveitamento da revisão. Lembre-se, você está revisando um código que agregará valor ao cliente. Da mesma forma, um código bem revisto evita retrabalho e bugs. Os passos são:
 
 1. Verifique se há conflitos: Verifique se o PR gera algum conflito de código. Em caso positivo, solicite ao autor a correção imediatamente.
@@ -37,7 +37,7 @@ Os passos abaixo devem ser seguidos no processo de CR, para atingir o máximo de
 - Caso o PR tenha algum erro grave de código, ou coloque a segurança e estabilidade da aplicação em risco, rejeite o PR.
 13. Revise os pontos ajustados: Após o autor incluir as correções ou sugestões sugeridas, revise os pontos conforme as orientações acima. Caso todas tenham sido atendidas, aprove o PR.
 ___
-# Orientações para Execução do CR
+## Orientações para Execução do CR
 
 Neste item, serão listadas algumas atitudes que contribuirão para um processo de Code Review mais tranquilo, assertivo e sem conflitos.
 - Faça o processo de CR com calma. Reserve tempo para ler o conteúdo do PR e os códigos, para ter uma melhor visão do contexto.
@@ -49,7 +49,7 @@ Neste item, serão listadas algumas atitudes que contribuirão para um processo 
 - PR's grandes sem justificativa devem ser rejeitados, para que sejam divididos pelo autor e facilitar assim o processo de Code Review.
 - Aprovação de sênior ou Tech Lead e contexto da atividade: Os PR's devem ser aprovados por, no mínimo, 2 avaliadores sendo 1 deles sênior ou líder técnico, e que este esteja no contexto da atividade desevolvida, para trazer clareza e entendimento à revisão.
 ___
-# Orientações para Comentários
+## Orientações para Comentários
 Alguns pontos devem ser levados em consideração durante a comunicação do revisor com o autor. Esta comunicação deve ser clara, concisa e respeitosa. Alguns cuidados devem ser tomados nessa comunicação, principalmente ao que diz respeito aos comentários em uma CR:
 - Faça comentários curtos e precisos. Não é necessário efetuar comentários estensos. Caso necessário, entre em contato direto com o autor.
 - Em caso de sugestões, apresente-as com pequenos trechos de código ou links para orientar o autor.
@@ -62,8 +62,8 @@ Alguns pontos devem ser levados em consideração durante a comunicação do rev
 - Revise e comente independente da senioridade: todos podem revisar e criar comentários em PR'S. Além da melhoria do código, também é um momento de troca de experiencia. Mesmo um júnior revisão código de um sênior, deve fazer comentários caso achei necessário. Lembrando sempre de manter em vista o tato e a cordialidade.
 
 ___
-# Referências
-[Review pull requests](https://learn.microsoft.com/en-us/azure/devops/repos/git/review-pull-requests?view=azure-devops&tabs=browser)
-[How to do a code review](https://google.github.io/eng-practices/review/reviewer/)
-[Boas práticas para utilizar no code review](https://www.linkedin.com/pulse/6-boas-pr%C3%A1ticas-para-utilizar-code-review-leticia-coelho/?originalSubdomain=pt)
-[conventional: comments](https://conventionalcomments.org/)
+## Referências
+- [Review pull requests](https://learn.microsoft.com/en-us/azure/devops/repos/git/review-pull-requests?view=azure-devops&tabs=browser)
+- [How to do a code review](https://google.github.io/eng-practices/review/reviewer/)
+- [Boas práticas para utilizar no code review](https://www.linkedin.com/pulse/6-boas-pr%C3%A1ticas-para-utilizar-code-review-leticia-coelho/?originalSubdomain=pt)
+- [conventional: comments](https://conventionalcomments.org/)
