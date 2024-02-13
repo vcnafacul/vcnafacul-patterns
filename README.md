@@ -22,11 +22,11 @@ Criar card no trello vai se chemar numero do card e epico
 
 # Repositórios da aplicação
 
-[Frontend - Client]()
+[Frontend - Client](https://github.com/vcnafacul/client-vcnafacul)
 
-[Backend - API]()
+[Backend - API](https://github.com/vcnafacul/api-vcnafacul)
 
-[Serviço de simulado]()
+[Serviço de simulado](https://github.com/vcnafacul/ms-simulado)
 
 
 ## Git
