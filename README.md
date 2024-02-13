@@ -14,7 +14,7 @@ A seguir, os links que vão direcionar para as áreas específicas que queira co
 
 [Guia de Fluxo de Commits](https://vcnafacul.github.io/vcnafacul-patterns/CodeReviewGuide/)
 
-[Guia de Fluxo de Pull Request]()
+[Guia de Fluxo de Pull Request](https://vcnafacul.github.io/vcnafacul-patterns/PullRequestGuide)
 
 [Guia de Fluxo de Code Review](https://vcnafacul.github.io/vcnafacul-patterns/CodeReviewGuide/)
 
