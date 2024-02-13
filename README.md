@@ -8,13 +8,13 @@ As propostas contidas aqui são orientações e estão abertas a mudanças a sug
 
 A seguir, os links que vão direcionar para as áreas específicas que queira consultar:
 
-[Guia de Fluxo de Trabalho]()
+[Guia de Fluxo de Trabalho](https://vcnafacul.github.io/vcnafacul-patterns/WorkflowGuide/)
 
-[Guia de Fluxo de Commits]()
+[Guia de Fluxo de Commits](https://vcnafacul.github.io/vcnafacul-patterns/CodeReviewGuide/)
 
 [Guia de Fluxo de Pull Request]()
 
-[Guia de Fluxo de Code Review]()
+[Guia de Fluxo de Code Review](https://vcnafacul.github.io/vcnafacul-patterns/CodeReviewGuide/)
 
 [Guia Rápido - Resumo dos itens propostos anteriormente]()
 
