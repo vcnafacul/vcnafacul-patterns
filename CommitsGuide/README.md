@@ -281,8 +281,12 @@ ___
 # Referências
 
 - [Conveção](https://www.conventionalcommits.org/)
+  
 - https://www.linkapi.solutions/blog/conventional-commits-pattern
+
 - [Commit Lint - GITHub](https://github.com/conventional-changelog/commitlint)
+
 - https://nitayneeman.com/posts/understanding-semantic-commit-messages-using-git-and-angular/
+
 - [Padrão RFC 2119 - PT/BR](https://webiwg.github.io/rfc-pt/rfc2119)
 - [Padrão RFC 2119](https://www.ietf.org/rfc/rfc2119.txt)
