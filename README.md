@@ -37,15 +37,18 @@ Criar card no trello vai se chemar numero do card e epico
   - Utilize o modelo de branching [Git Flow](https://nvie.com/posts/a-successful-git-branching-model/) para gerenciar o fluxo de trabalho.
   - Mantenha nomes de branches descritivos e claros, evitando abreviações desnecessárias.
   - Feature/numero do card
+ 
+![Número do Card](https://github.com/vcnafacul/vcnafacul-patterns/blob/main/images/CardNumber.png?raw=true)
   
 - **Commits**:
   - Siga o estilo de mensagem de commit no formato: `<tipo>: <descrição>`.
-  - Tipos comuns incluem `feat` (para novas funcionalidades), `fix` (para correções de bugs), `docs` (para alterações na documentação), `chore` (para tarefas de manutenção), entre outros.
+  - Tipos comuns incluem `feat` (para novas funcionalidades), `fix` (para correções de bugs), `docs` (para alterações na documentação), `chore` (para tarefas de manutenção), entre outros conforme descrito na seção de [guia de commits](https://github.com/vcnafacul/vcnafacul-patterns/tree/main/CommitsGuide).
+  - Opcionalmente podem ser usados emojis que façam sentido no inicio de cada commit.
   
 - **Pull Requests**:
-  - Crie Pull Requests claros e concisos, descrevendo as alterações realizadas.
+  - Crie Pull Requests(PR) claros e concisos, descrevendo as alterações realizadas.
   - Garanta que o código esteja revisado por pares antes de fazer merge.
-  - numeração do card no começo do 
+  - Numeração do card no começo do título do PR.
 
 ## Linguagem
 
